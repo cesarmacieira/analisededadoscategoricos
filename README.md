@@ -1,2 +1,1 @@
-# analisededadoscategoricos
-Análise de dados categóricos
+# Análise de dados categóricos
